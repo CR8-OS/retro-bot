@@ -34,6 +34,11 @@ Capture what you learned. Apply the fix. Make the next session better.
 [![Install plugin](https://img.shields.io/badge/Install%20plugin-retro--bot%20v1.3-blue)](#install)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-orange)](https://claude.ai)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-buy%20me%20a%20coffee-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/cj48744)
+
+<p align="center">
+  <a href="https://ko-fi.com/cj48744"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a>
+</p>
 
 ---
 
@@ -351,6 +356,23 @@ and pay it forward when you can.
 Feedback is always welcome. If you use retro-bot and find something worth improving,
 open a PR or an issue. Describe the friction, propose the fix. That's the whole
 methodology applied to itself.
+
+---
+
+## If it made the next session better
+
+This is free, MIT, and yours to fork. The premise is just that the friction you noticed
+at the end of a session is worth more than the session itself, and almost nobody writes
+it down. If retro-bot caught something you would have repeated, and you feel like saying
+thanks, there is a Ko-fi link below. Tips go into building more of these.
+
+If it caught nothing, you owe me nothing. Seems fair.
+
+<p align="center">
+  <a href="https://ko-fi.com/cj48744"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"></a>
+</p>
+
+More tools at [github.com/CR8-OS](https://github.com/CR8-OS).
 
 ---
 
