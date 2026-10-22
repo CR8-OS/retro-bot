@@ -8,7 +8,7 @@ or an improvement to the skill's instructions.
 
 ## Reporting issues
 
-Use [GitHub Issues](https://github.com/cometogather/retro-bot/issues).
+Use [GitHub Issues](https://github.com/CR8-OS/retro-bot/issues).
 
 For bugs: describe what you expected to happen, what actually happened,
 and which phase the issue occurred in. Attach the relevant portion of your
