@@ -211,7 +211,7 @@ No accounts. No APIs. No additional installs.
 2. Paste this URL:
 
    ```
-   https://github.com/cometogather/retro-bot
+   https://github.com/CR8-OS/retro-bot
    ```
 
 3. **Sync** the marketplace, then click **Install** on retro-bot in the catalog
@@ -224,7 +224,7 @@ No accounts. No APIs. No additional installs.
 where all retro snapshots will be saved automatically going forward.
 
 **Alternative (file install):** if you'd rather not add a marketplace, download
-[`retro-bot.plugin`](https://raw.githubusercontent.com/cometogather/retro-bot/main/retro-bot.plugin)
+[`retro-bot.plugin`](https://raw.githubusercontent.com/CR8-OS/retro-bot/main/retro-bot.plugin)
 directly and use Cowork's **Install plugin from file** option.
 
 ### Claude Code
@@ -232,7 +232,7 @@ directly and use Cowork's **Install plugin from file** option.
 Inside an interactive Claude Code session:
 
 ```
-/plugin marketplace add cometogather/retro-bot
+/plugin marketplace add CR8-OS/retro-bot
 /plugin install retro-bot@retro-bot-marketplace
 ```
 
@@ -264,7 +264,7 @@ To update later: `/plugin marketplace update` then `/plugin upgrade retro-bot`.
 If you want to clone and run a local copy (for hacking on the plugin):
 
 ```bash
-git clone https://github.com/cometogather/retro-bot.git
+git clone https://github.com/CR8-OS/retro-bot.git
 claude --plugin-dir ./retro-bot
 ```
 
@@ -279,11 +279,11 @@ both work on any Claude Code version with plugin support:
 
 ```bash
 # Option 1: load locally for the session (no install)
-git clone https://github.com/cometogather/retro-bot.git
+git clone https://github.com/CR8-OS/retro-bot.git
 claude --plugin-dir ./retro-bot
 
 # Option 2: download the plugin file and install from file
-curl -LO https://raw.githubusercontent.com/cometogather/retro-bot/main/retro-bot.plugin
+curl -LO https://raw.githubusercontent.com/CR8-OS/retro-bot/main/retro-bot.plugin
 claude plugin install ./retro-bot.plugin
 ```
 
